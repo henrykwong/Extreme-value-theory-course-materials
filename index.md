@@ -1,37 +1,174 @@
-## Welcome to GitHub Pages
+# Math48181/68181 Online Course Materials
 
-You can use the [editor on GitHub](https://github.com/henrylobster/henrylobster.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [Course Syllabus](https://minerva.it.manchester.ac.uk/~saralees/syllabus6.pdf)
+- [Formulas to Remember for the In-Class Test on 15 December 2020](https://minerva.it.manchester.ac.uk/~saralees/cwformula202021.pdf)
+- [Formulas to Remember for the Final Exam in January 2021](https://minerva.it.manchester.ac.uk/~saralees/formula202021.pdf)
+- [Handwritten Lecture Notes 2014/15 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/handwritten.pdf)
+- [Handwritten Lecture Notes 2015/16 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/exthand201516.pdf)
+- [Handwritten Lecture Notes 2016/17 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/exthandmsc201617.pdf)
+- [Handwritten Lecture Notes 2017/18 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/exthandmsc201718.pdf)
+- [Handwritten Lecture Notes 2018/19 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/exthandmsc201819.pdf)
+- [Handwritten Lecture Notes 2019/20 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/exthandmsc201920.pdf)
+- [Podcasts for 2015/16 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/ext6pod201516.html)
+- [Podcasts for 2016/17 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/ext6pod201617.html)
+- [Podcasts for 2017/18 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/ext6pod201718.html)
+- [Podcasts for 2018/19 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/ext6pod201819.html)
+- [Podcasts for 2019/20 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/ext6pod201920.html)
+- [Week 3 Student Feedback 2014/2015 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extweek3feedback2014.pdf)
+- [Week 3 Student Feedback 2015/2016 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extweek3feedback2015.pdf)
+- [Week 3 Student Feedback 2016/2017 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extweek3feedback2016.pdf)
+- [Week 3 Student Feedback 2017/2018 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extweek3feedback2017.pdf)
+- [Week 3 Student Feedback 2018/2019 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extweek3feedback2018.pdf)
+- [Week 3 Student Feedback 2019/2020 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extweek3feedback2019.pdf)
+- [UEQ Results 2014/2015 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extteachingeval20142015.pdf)
+- [UEQ Results 2015/2016 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extteachingeval20152016.pdf)
+- [UEQ Results 2016/2017 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extteachingeval20162017.pdf)
+- [UEQ Results 2017/2018 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extteachingeval20172018.pdf)
+- [UEQ Results 2018/2019 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extteachingeval20182019.pdf)
+- [UEQ Results 2019/2020 Academic Year](https://minerva.it.manchester.ac.uk/~saralees/extteachingeval20192020.pdf)
+- [Some Financial Disasters](https://minerva.it.manchester.ac.uk/~saralees/figures.pdf)
+- [Biggest Financial Frauds](https://minerva.it.manchester.ac.uk/~saralees/fraud2.pdf)
+- [Some Extreme Events](https://minerva.it.manchester.ac.uk/~saralees/bivextreme.pdf)
+- [Proof of Extremal Types Theorem](https://minerva.it.manchester.ac.uk/~saralees/ettproof.pdf)
+- [Formulas for VaR and ES](https://minerva.it.manchester.ac.uk/~saralees/varestable.pdf)
+- [Financial Pareto Ratios](https://minerva.it.manchester.ac.uk/~saralees/fpr.pdf)
+- [The Formula that Killed Wall Street](https://minerva.it.manchester.ac.uk/~saralees/wallst2.pdf)
+- [Extreme Values - Definition 1](https://minerva.it.manchester.ac.uk/~saralees/extreme1.pdf)
+- [Extreme Values - Definition 2](https://minerva.it.manchester.ac.uk/~saralees/extreme2.pdf)
+- [Extreme Values - Definition 3](https://minerva.it.manchester.ac.uk/~saralees/extreme3.pdf)
+- [VaR Picture 1](https://minerva.it.manchester.ac.uk/~saralees/VaR1.pdf)
+- [VaR Picture 2](https://minerva.it.manchester.ac.uk/~saralees/VaR2.pdf)
+- [VaR Picture 3](https://minerva.it.manchester.ac.uk/~saralees/VaR3.pdf)
+- [VaR Picture 4](https://minerva.it.manchester.ac.uk/~saralees/VaR4.pdf)
+- [VaR Picture 5](https://minerva.it.manchester.ac.uk/~saralees/VaR5.pdf)
+- [VaR Picture 6](https://minerva.it.manchester.ac.uk/~saralees/VaR6.pdf)
+- [VaR Picture 7](https://minerva.it.manchester.ac.uk/~saralees/VaR7.pdf)
+- [A Proof that VaR is Not Sub-Additive](https://minerva.it.manchester.ac.uk/~saralees/VaRproof.pdf)
+- [Seven Proofs that ES is Sub-Additive](https://minerva.it.manchester.ac.uk/~saralees/ESproof.pdf)
+- [A Collection of Software for Analyzing Extreme Values](https://minerva.it.manchester.ac.uk/~saralees/extremesoft.pdf)
+- [QR Student Survey Apps](https://minerva.it.manchester.ac.uk/~saralees/apps.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Handwritten Notes
 
-### Markdown
+## Podcasts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lecture Notes
 
-```markdown
-Syntax highlighted code block
+- [Chapter 1](https://minerva.it.manchester.ac.uk/~saralees/chap1.pdf)
+- [Chapter 2](https://minerva.it.manchester.ac.uk/~saralees/chap3.pdf)
+- [Chapter 3](https://minerva.it.manchester.ac.uk/~saralees/chap2.pdf)
+- [Chapter 4](https://minerva.it.manchester.ac.uk/~saralees/chap14.pdf)
+- [Chapter 5](https://minerva.it.manchester.ac.uk/~saralees/chap17.pdf)
+- [Chapter 6](https://minerva.it.manchester.ac.uk/~saralees/chap8.pdf)
+- [Chapter 7](https://minerva.it.manchester.ac.uk/~saralees/chap18.pdf)
+- [Chapter 8](https://minerva.it.manchester.ac.uk/~saralees/chap19.pdf)
+- [Chapter 9](https://minerva.it.manchester.ac.uk/~saralees/chap192.pdf)
+- [Chapter 10](https://minerva.it.manchester.ac.uk/~saralees/chap20.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+## Problem Sheets
 
-- Bulleted
-- List
+- [Sheet 1](https://minerva.it.manchester.ac.uk/~saralees/eprob1.pdf)
+- [Sheet 2](https://minerva.it.manchester.ac.uk/~saralees/eprob4.pdf)
+- [Sheet 3](https://minerva.it.manchester.ac.uk/~saralees/eprob2.pdf)
+- [Sheet 4](https://minerva.it.manchester.ac.uk/~saralees/eprob3.pdf)
+- [Sheet 5](https://minerva.it.manchester.ac.uk/~saralees/eprob5.pdf)
+- [Sheet 6](https://minerva.it.manchester.ac.uk/~saralees/eprob6.pdf)
+- [Sheet 7](https://minerva.it.manchester.ac.uk/~saralees/eprob7.pdf)
+- [Sheet 8](https://minerva.it.manchester.ac.uk/~saralees/eprob8.pdf)
+- [Sheet 9](https://minerva.it.manchester.ac.uk/~saralees/eprob9.pdf)
+- [Sheet 10](https://minerva.it.manchester.ac.uk/~saralees/eprob10.pdf)
+- [Sheet 11](https://minerva.it.manchester.ac.uk/~saralees/eprob11.pdf)
+- [Sheet 12](https://minerva.it.manchester.ac.uk/~saralees/eprob12.pdf)
+- [Sheet 13](https://minerva.it.manchester.ac.uk/~saralees/eprob13.pdf)
+- [Sheet 14](https://minerva.it.manchester.ac.uk/~saralees/eprob14.pdf)
 
-1. Numbered
-2. List
+## Solutions
 
-**Bold** and _Italic_ and `Code` text
+- [Solutions 1](https://minerva.it.manchester.ac.uk/~saralees/esol1.pdf)
+- [Solutions 2](https://minerva.it.manchester.ac.uk/~saralees/esol4.pdf)
+- [Solutions 3](https://minerva.it.manchester.ac.uk/~saralees/esol2.pdf)
+- [Solutions 4](https://minerva.it.manchester.ac.uk/~saralees/esol3.pdf)
+- [Solutions 5](https://minerva.it.manchester.ac.uk/~saralees/esol5.pdf)
+- [Solutions 6](https://minerva.it.manchester.ac.uk/~saralees/esol6.pdf)
+- [Solutions 7](https://minerva.it.manchester.ac.uk/~saralees/esol7.pdf)
+- [Solutions 8](https://minerva.it.manchester.ac.uk/~saralees/esol8.pdf)
+- [Solutions 9](https://minerva.it.manchester.ac.uk/~saralees/esol9.pdf)
+- [Solutions 10](https://minerva.it.manchester.ac.uk/~saralees/esol10.pdf)
+- [Solutions 11](https://minerva.it.manchester.ac.uk/~saralees/esol11.pdf)
+- [Solutions 12](https://minerva.it.manchester.ac.uk/~saralees/esol12.pdf)
+- [Solutions 13](https://minerva.it.manchester.ac.uk/~saralees/sprob13.pdf)
+- [Solutions 14](https://minerva.it.manchester.ac.uk/~saralees/sprob14.pdf)
 
-[Link](url) and ![Image](src)
-```
+## Quizzes and Solutions for 2018/2019 Academic Year
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Problem 1 due 12:00noon Tuesday 9 October 2018](https://minerva.it.manchester.ac.uk/~saralees/extquizz1.pdf)
+- [Solutions to Problem 1](https://minerva.it.manchester.ac.uk/~saralees/extsolquizz1.pdf)
+- [Problem 2 due 12:00noon Tuesday 23 October 2018](https://minerva.it.manchester.ac.uk/~saralees/extquizz2.pdf)
+- [Solutions to Problem 2](https://minerva.it.manchester.ac.uk/~saralees/extsolquizz2.pdf)
+- [Problem 3 due 12:00noon Tuesday 6 November 2018](https://minerva.it.manchester.ac.uk/~saralees/extquizz3.pdf)
+- [Solutions to Problem 3](https://minerva.it.manchester.ac.uk/~saralees/extsolquizz3.pdf)
+- [Problem 4 due 12:00noon Tuesday 20 November 2018](https://minerva.it.manchester.ac.uk/~saralees/extquizz4.pdf)
+- [Solutions to Problem 4](https://minerva.it.manchester.ac.uk/~saralees/extsolquizz4.pdf)
+- [Problem 5 due 12:00noon Tuesday 4 December 2018](https://minerva.it.manchester.ac.uk/~saralees/extquizz5.pdf)
+- [Solutions to Problem 5](https://minerva.it.manchester.ac.uk/~saralees/extsolquizz5.pdf)
 
-### Jekyll Themes
+## Quizzes and Solutions for 2019/2020 Academic Year
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/henrylobster/henrylobster.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Problem 1 due 12:00noon Tuesday 8 October 2019](https://minerva.it.manchester.ac.uk/~saralees/ext2019quizz1.pdf)
+- [Solutions to Problem 1](https://minerva.it.manchester.ac.uk/~saralees/ext2019solquizz1.pdf)
+- [Problem 2 due 12:00noon Tuesday 22 October 2019](https://minerva.it.manchester.ac.uk/~saralees/ext2019quizz2.pdf)
+- [Solutions to Problem 2](https://minerva.it.manchester.ac.uk/~saralees/ext2019solquizz2.pdf)
+- [Problem 3 due 12:00noon Tuesday 5 November 2019](https://minerva.it.manchester.ac.uk/~saralees/ext2019quizz3.pdf)
+- [Solutions to Problem 3](https://minerva.it.manchester.ac.uk/~saralees/ext2019solquizz3.pdf)
+- [Problem 4 due 12:00noon Tuesday 19 November 2019](https://minerva.it.manchester.ac.uk/~saralees/ext2019quizz4.pdf)
+- [Solutions to Problem 4](https://minerva.it.manchester.ac.uk/~saralees/ext2019solquizz4.pdf)
+- [Problem 5 due 12:00noon Tuesday 3 December 2019](https://minerva.it.manchester.ac.uk/~saralees/ext2019quizz5.pdf)
+- [Solutions to Problem 5](https://minerva.it.manchester.ac.uk/~saralees/ext2019solquizz5.pdf)
 
-### Support or Contact
+## Quizzes and Solutions for 2020/2021 Academic Year
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Problem 1 due 12:00noon Tuesday 10 November 2020](https://minerva.it.manchester.ac.uk/~saralees/ext2020quizz1.pdf)
+- [Problem 2 due 12:00noon Tuesday 24 November 2020](https://minerva.it.manchester.ac.uk/~saralees/ext2020quizz2.pdf)
+- [Problem 3 due 12:00noon Tuesday 8 December 2020](https://minerva.it.manchester.ac.uk/~saralees/ext2020quizz3.pdf)
+- [Problem 4 due 12:00noon Tuesday 5 January 2021](https://minerva.it.manchester.ac.uk/~saralees/ext2020quizz4.pdf)
+- [Problem 5 due 12:00noon Tuesday 19 January 2021](https://minerva.it.manchester.ac.uk/~saralees/ext2020quizz5.pdf)
+
+## In-class Tests
+
+- [2014/15 Test for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/cw201415v3.pdf)
+- [Solutions to the 2014/15 Test](https://minerva.it.manchester.ac.uk/~saralees/cwsol201415.pdf)
+- [2015/16 Test for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/cw201516v3.pdf)
+- [Solutions to the 2015/16 Test](https://minerva.it.manchester.ac.uk/~saralees/cwsol201516.pdf)
+- [2016/17 Test for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/cw201617v3.pdf)
+- [Solutions to the 2016/17 Test](https://minerva.it.manchester.ac.uk/~saralees/cwsol201617.pdf)
+- [2017/18 Test for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/cw201718v3.pdf)
+- [Solutions to the 2017/18 Test](https://minerva.it.manchester.ac.uk/~saralees/cwsol201718.pdf)
+- [2018/19 Test for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/cw201819common.pdf)
+- [Solutions to the 2018/19 Test](https://minerva.it.manchester.ac.uk/~saralees/cwsol201819common.pdf)
+- [2019/20 Test for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/cw201920common.pdf)
+- [Solutions to the 2019/20 Test](https://minerva.it.manchester.ac.uk/~saralees/cwsol201920common.pdf)
+
+## Exam Papers
+
+- [2012/13 Exam for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/exam201213v3.pdf)
+- [Solutions](https://minerva.it.manchester.ac.uk/~saralees/examsol201213v3.pdf)
+- [2013/14 Exam for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/exam201314v3.pdf)
+- [Solutions](https://minerva.it.manchester.ac.uk/~saralees/examsol201314v3.pdf)
+- [2014/15 Exam for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/exam201415v3.pdf)
+- [2015/16 Exam for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/exam201516v3.pdf)
+- [Solutions](https://minerva.it.manchester.ac.uk/~saralees/examsol201516v3.pdf)
+- [2016/17 Exam for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/exam201617v3.pdf)
+- [Solutions](https://minerva.it.manchester.ac.uk/~saralees/examsol201617v3.pdf)
+- [2017/18 Exam for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/exam201718v3.pdf)
+- [Solutions](https://minerva.it.manchester.ac.uk/~saralees/examsol201718v3.pdf)
+- [2018/19 Exam for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/exam201819v3.pdf)
+- [Solutions](https://minerva.it.manchester.ac.uk/~saralees/examsol201819v3.pdf)
+- [2019/20 Exam for Math4/68181](https://minerva.it.manchester.ac.uk/~saralees/exam201920v3.pdf)
+- [Solutions](https://minerva.it.manchester.ac.uk/~saralees/examsol201920v3.pdf)
+
+## Some Research Papers in Financial Statistics
+
+- [Paper 1](https://minerva.it.manchester.ac.uk/~saralees/paper1.pdf)
+- [Paper 2](https://minerva.it.manchester.ac.uk/~saralees/paper2.pdf)
+- [Paper 3](https://minerva.it.manchester.ac.uk/~saralees/paper3.pdf)
+- [Paper 4](https://minerva.it.manchester.ac.uk/~saralees/paper4.pdf)
